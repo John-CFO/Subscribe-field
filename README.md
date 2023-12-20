@@ -6,4 +6,5 @@ it is currently still being rejected and I have no idea why it was rejected. May
 
 Thank´s for your help.
 
+## Preview
 ![Subscribe Field Preview](https://github.com/John-CFO/Subscribe-field/blob/master/subscribe-form.gif?raw=true)
