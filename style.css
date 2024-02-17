@@ -38,7 +38,7 @@ the guidelines are present on uiverse.io.*/
 
 .card-parent:hover {
   transition: 0.5s;
-  box-shadow: 0 0 2px 2px#9b14c438, 0 0 4px 4px#9b14c438, 0 0 8px 8px #9b14c438;
+  box-shadow: 0 0 2px 2px #9b14c438, 0 0 4px 4px #9b14c438, 0 0 8px 8px #9b14c438;
 }
 
 /*------title--------*/
